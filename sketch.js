@@ -36,7 +36,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(670, 500);
+createCanvas(windowWidth, windowHeight);
   rectMode(CENTER);
   textAlign(CENTER, CENTER);
   resetGame();
