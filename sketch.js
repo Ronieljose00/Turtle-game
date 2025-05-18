@@ -1,3 +1,9 @@
+// Roniel Pena 
+// the turtle game
+
+// Press 'D' to duck/hide
+// I used Daniel Shiffman's tutorials among other creators to achieve this.  
+
 let hatchingVid, predatorVid, finaldestinationVid;
 let playButton = { x: 0, y: 0, w: 0, h: 55 };
 let turtle;
